@@ -1,0 +1,1 @@
+This demo illustrate the delete-CF scenario. So there is no YAML file applicable for this demo. 
